@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ab5e0beb1c36778479983f28b65d97dd
+guid: 327374ea310462a4cb8adb30c629c90b
 labels:
 - wood
 - lowpoly
@@ -14,6 +14,8 @@ labels:
 timeCreated: 1462217374
 licenseType: Store
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

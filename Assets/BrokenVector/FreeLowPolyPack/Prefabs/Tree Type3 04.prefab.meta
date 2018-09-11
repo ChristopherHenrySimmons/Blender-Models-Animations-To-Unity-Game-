@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7c5aafe3fe2c6ef4a9150f7f44653760
+guid: b0ca126e28d802f4693f5fbf3ae38bee
 labels:
 - dead
 - plant
@@ -14,6 +14,8 @@ labels:
 timeCreated: 1457642339
 licenseType: Store
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
